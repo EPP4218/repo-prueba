@@ -1,3 +1,0 @@
-- **Nombre**: Elías Mercado
-- **C.U.**: 150031
-- **Gh-User**: EPP4218
